@@ -1,5 +1,11 @@
 # ITO
 ### InTime (ITO) Smart Contract
+Contract Information:
+~~~
+Format: Solidity Multiple Files Format
+Contract Name: Token.sol
+Compiler Version: v0.5.15+commit.6a57276f
+~~~
 Token Information:
 ~~~
 Protocol: ERC-20
